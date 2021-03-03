@@ -1,0 +1,20 @@
+body{
+    background: peachpuff;
+}
+
+.point{
+    height: 5px;
+    width: 5px;
+    border-radius: 100%;
+    border: solid 1px black;
+    background: yellow;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
